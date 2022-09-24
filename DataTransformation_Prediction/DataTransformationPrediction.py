@@ -9,7 +9,7 @@ class dataTransformPredict:
      """
                   This class shall be used for transforming the Good Raw Training Data before loading it in Database!!.
 
-                  Written By: iNeuron Intelligence
+                  Written By: Deepak Thakur
                   Version: 1.0
                   Revisions: None
 
@@ -29,7 +29,7 @@ class dataTransformPredict:
                                                keep only "Integer" data for ease up the loading.
                                                This column is anyways going to be removed during prediction.
 
-                                   Written By: iNeuron Intelligence
+                                   Written By: Deepak Thakur
                                   Version: 1.0
                                   Revisions: None
 
